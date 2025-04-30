@@ -1,3 +1,5 @@
+*****DATABASE DEACTIVATED - NO LONGER MAINTAINED - NO LONGER FUNCTIONING*****
+
 # PixelParts Website Guide
 
 ---
