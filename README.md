@@ -11,7 +11,7 @@ Before you start your PixelParts experience, please follow these steps:
   2. Clone our Repository
     - Open a CMD window and navigate to the folder where you would like to store the website.
       - Run the following commands:
-        - git clone https://github.com/T-Bhatti13/PixelPart.git
+        - git clone https://github.com/NAMilano/PixelPart.git
         - cd  PixelPart
   3. Install Dependencies
     - Now that you are in the PixelPart directory, run the following command to install all the required dependencies:
