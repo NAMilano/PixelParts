@@ -4,10 +4,10 @@ import bcrypt from 'bcryptjs';
 
 // Create a connection to the database
 const connection = mysql.createConnection({
-  host: 'pixelpartsdatabase.cds6mc4ieyzx.us-east-2.rds.amazonaws.com', // Amazon RDS server endpoint
-  user: 'pixelpartsadmin', // MySQL username
-  password: 'pixelparts', //  MySQL password
-  database: 'pixelparts' // database name
+  host: '', // Amazon RDS server endpoint
+  user: '', // MySQL username
+  password: '', //  MySQL password
+  database: '' // database name
 });
 
 // Connect to MySQL
